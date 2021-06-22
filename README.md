@@ -5,3 +5,5 @@ from https://www.propertiesguru.com/residential-search/2bhk-residential_apartmen
 for 2 BHK and 3 BHK respectively and stores it in an uniform format in two seperate excel files
 
 The working code is present in jupyter notebook format, inside New_Delhi_Property_WebScraping.ipynb and also .py format as New_Delhi_Property_WebScraping_python.py
+
+Output can be viewed in .xlsx files
